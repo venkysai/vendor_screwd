@@ -35,6 +35,18 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     OmniJaws
 
+#Camera 
+PRODUCT_PACKAGES += \
+    Camera
+
+#Retro
+PRODUCT_PACKAGES += \
+    Retro
+
+# Launcher 
+PRODUCT_PACKAGES += \
+    launcherS
+
 #Lean
 PRODUCT_PACKAGES += \
     Lean

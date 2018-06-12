@@ -19,5 +19,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.screwd.device=$(SCREWD_DEVICE)
     
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.config.ringtone=ChunkUpTheDeuce.ogg
+    ro.config.ringtone=hello.ogg
 
